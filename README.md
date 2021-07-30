@@ -1,7 +1,8 @@
 # Python_Project
 Repository will contain Python code
 
-Instacart, an online grocery store is a grocery delivery and pick-up service that operates in the United States and Canada. The service allows customers to order groceries from participating retailers with the shopping being completed by a personal shopper. Instacart wants to find more information in reagrds to their sales patterns. 
+ **Instacart, an online grocery store is a grocery delivery and pick-up service that operates in the United States and Canada. The service allows customers to order groceries from participating retailers with the shopping being completed by a personal shopper. Instacart wants to find more information in regards to their sales patterns.**   
+
 
  *Open-source data is used*   
 
